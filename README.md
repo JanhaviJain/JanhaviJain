@@ -11,6 +11,7 @@
 <br>
 
 ## 🔥 Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=JanhaviJain&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JanhaviJain&langs_count=5&theme=tokyonight)]()
 
 <br>
